@@ -10,7 +10,7 @@
 
 ## HW 2
 ### Решение
-[Ноутбук со скринами](https://github.com/BogdanTanchuk/SQL_HW1/blob/master/SQL_HW1.ipynb)
+[Ноутбук со скринами](https://github.com/BogdanTanchuk/SQL/blob/master/SQL_HW2.ipynb)
 ### Если не отображаются скрины в ноутбуке
   - [Вывести все уникальные бренды, у которых стандартная стоимость выше 1500 долларов](https://drive.google.com/file/d/1g_bTXvtpF76V1PulhguOqihB0vb6imuN/view?usp=sharing)
   - [Вывести все подтвержденные транзакции за период '2017-04-01' по '2017-04-09' включительно](https://drive.google.com/file/d/1WkQgWt_S3w3MeYCFazUXooDl93-6s_6t/view?usp=sharing)
