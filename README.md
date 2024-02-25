@@ -22,6 +22,6 @@
   - [Вывести всех клиентов из сферы IT и Health, у которых есть подтвержденные транзакции за период '2017-07-07' по '2017-07-17'](https://drive.google.com/file/d/15jV-N3xqL4TpUoRk9lE3lGu1b-TJq9qt/view?usp=sharing)
 
 
-## HW 2
+## HW 3
 ### Решение
 [Ноутбук со скринами](https://github.com/BogdanTanchuk/SQL/blob/master/SQL_HW3.ipynb)
