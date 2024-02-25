@@ -20,3 +20,8 @@
   - [Вывести всех клиентов, у которых нет транзакций](https://drive.google.com/file/d/1N9K-7n0k4WNW_eiV5ty2ZeZHzo3uNyzp/view?usp=sharing)
   - [Вывести всех клиентов из IT, у которых транзакции с максимальной стандартной стоимостью](https://drive.google.com/file/d/17zWEzSrVkR3SZOFaxfEX5GLFtB6pQYzD/view?usp=sharing)
   - [Вывести всех клиентов из сферы IT и Health, у которых есть подтвержденные транзакции за период '2017-07-07' по '2017-07-17'](https://drive.google.com/file/d/15jV-N3xqL4TpUoRk9lE3lGu1b-TJq9qt/view?usp=sharing)
+
+
+## HW 2
+### Решение
+[Ноутбук со скринами](https://github.com/BogdanTanchuk/SQL/blob/master/SQL_HW3.ipynb)
